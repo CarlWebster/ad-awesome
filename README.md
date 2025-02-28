@@ -91,6 +91,7 @@
 - [CISA Logging Made Easy](https://github.com/cisagov/LME)
 - [Diagnostic Logging](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961809(v=technet.10))
 - [Disabling NTLMv1](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/active-directory-hardening-series-part-1-disabling-ntlmv1/ba-p/3934787)
+- [Documenting Active DIrectory](https://carlwebster.com/downloads/download-info/active-directory-2)
 - [EventLogging](https://github.com/blackhillsinfosec/EventLogging)
 - [GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
 - [Legacy DOE AD Design](https://web.archive.org/web/20120418025316/http://www.doecirc.energy.gov/documents/MS_Active_Directory_Design_Guide.pdf)
